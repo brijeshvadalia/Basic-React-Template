@@ -33,7 +33,7 @@
 
 - Learned about Functional Components 
 
-- `Reminder` : This is a Bootstrap Template just to understand components i have used this template
+- `Reminder` : This is a Responsive Design.
 
 ># Designed With 😇
 >## TECHNOLOGIES USED 
@@ -49,12 +49,12 @@
 >![BADGE](https://img.shields.io/badge/VERCEL-VERCEL-blue)
 
 
-<!-- # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://basic-react-template-portfolio-bootstrap.vercel.app/ "Basic React Template Project")
+# HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
+># [LIVE [HOSTED] PROJECT LINK](https://basic-react-template.vercel.app/ "Basic React Template Project")
 
 >![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
->![Screenshot](./screenshot/screenshot-3.png) -->
+>![Screenshot](./screenshot/screenshot-3.png)
 
 
 
